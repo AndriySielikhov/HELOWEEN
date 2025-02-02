@@ -1,2 +1,3 @@
 # HELOWEEN
-my project
+My project
+Shop in Halloween style
